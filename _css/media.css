@@ -4,21 +4,21 @@ div#tv-radio {
 	width: 900px;
 	height: 580px;
 	margin: auto;
-	background: url(../_imagens/radio-tv.png);
+	background: url(../_imagens/radio-tv.png) no-repeat;
 }
 
 audio#musica {
 	display: block;
 	position: relative;
 	left: 575px;
-	top: 500px;
+	top: 490px;
 	width: 300px;
 }
 
-video#filme {
+video#video {
 	display: block;
 	position: relative;
 	left: 90px;
-	top: 85px;
+	top: 60px;
 	width: 440px;
 }
